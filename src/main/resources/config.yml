@@ -1,0 +1,18 @@
+# this file is a config file.
+
+drop:
+  item0:
+    material: stone
+    amount: 1
+
+    name: magicStone
+    lore: test lore !&! test lore
+
+    enchant: lick;1,dig_speed;1
+    flags: hide_unbreakable,hide_enchants
+    unbreak: true
+
+mob:
+  table0:
+    type: zombie
+    drop: 0;0.20

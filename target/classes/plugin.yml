@@ -1,0 +1,7 @@
+name: CustomMob
+version: '1'
+main: custommob.custommob.CustomMob
+api-version: 1.19
+authors: [ SakakiAruka ]
+description: spawn custom mobs.
+website: https://github.com/Sakaki-Aruka
